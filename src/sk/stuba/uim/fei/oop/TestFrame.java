@@ -3,7 +3,7 @@ package sk.stuba.uim.fei.oop;
 import javax.swing.*;
 import java.awt.*;
 
-public class TestFrame extends JFrame {
+public class TestFrame extends Frame {
     RedrawThread a,b;
     Color c1;
     Color c2;
